@@ -13,9 +13,9 @@ Email filtering checks the local part and domain name independently (no word bou
 
 ## Live demo
 
-🔗 **[Try it on Glitch](https://badwords-it.glitch.me)** — type anything and see the filter in action.
+🔗 **[Try it on Replit](https://replit.com/@Dax-87/badwords-it)** — type anything and see the filter in action.
 
-> The demo uses the `glitch-demo/` folder from this repo. Source is open — feel free to inspect it.
+> The demo uses the `replit-demo/` folder from this repo. Source is open — feel free to inspect it.
 
 ---
 
