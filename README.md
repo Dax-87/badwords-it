@@ -11,6 +11,14 @@ Email filtering checks the local part and domain name independently (no word bou
 
 ---
 
+## Live demo
+
+🔗 **[Try it on Glitch](https://badwords-it.glitch.me)** — type anything and see the filter in action.
+
+> The demo uses the `glitch-demo/` folder from this repo. Source is open — feel free to inspect it.
+
+---
+
 ## Requirements
 
 - PHP 8.0+
